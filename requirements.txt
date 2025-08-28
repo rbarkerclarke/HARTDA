@@ -1,0 +1,15 @@
+cupy_cuda12x==13.3.0
+gudhi==3.11.0
+joblib==1.5.1
+keras_tuner==1.4.7
+mat73==0.65
+matplotlib==3.10.5
+mlxtend==0.23.4
+numpy==2.3.2
+pandas==2.3.2
+protobuf==6.32.0
+scikit_learn==1.7.1
+scipy==1.16.1
+seaborn==0.13.2
+tensorflow==2.19.0
+tqdm==4.67.1
